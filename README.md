@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hallo zusammen, willkommen auf GitHub 👋
+
+⚡ Hier findet ihr den Code aus meinen Kursen.
+
+👉 Meine Kurse findet ihr aktuell auf [Udemy](https://www.udemy.com/user/dimitri-derksen/) 😁
 
 <!--
 **dimader/dimader** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
