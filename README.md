@@ -1,4 +1,15 @@
-### Hallo zusammen, willkommen auf GitHub 👋
+```                                                                
+      7MM    db                              7MM"""Yb.                     
+       MM                                     MM    `Yb.                   
+  ,M""bMM   7MM   7MMpMMMb.pMMMb.   ,6"Yb.    MM     `Mb  .gP"Ya   7Mb,od8 
+,AP    MM    MM    MM    MM    MM  8)   MM    MM      MM ,M'   Yb   MM' "' 
+8MI    MM    MM    MM    MM    MM   ,pm9MM    MM     ,MP 8M""""""   MM     
+`Mb    MM    MM    MM    MM    MM  8M   MM    MM    ,dP' YM.    ,   MM     
+ `Wbmd"MML..JMML..JMML  JMML  JMML.`Moo9^Yo..JMMmmmdP'    `Mbmmd' .JMML.   
+
+```                                                                        
+
+### Hallo zusammen, willkommen auf meinem GitHub 👋
 
 ⚡ Hier findet ihr den Code aus meinen Kursen.
 
