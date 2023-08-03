@@ -15,7 +15,7 @@
 
 👉 Meine Kurse findet ihr aktuell auf [Udemy](https://www.udemy.com/user/dimitri-derksen/) 😁
 
-👉 Meine Community und meinen Newsletter findet ihr auf meiner [Homepage](https://dimitriderksen.podia.com/) 😄
+👉 Meine Community und meinen Newsletter findet ihr auf meiner [Homepage](https://cutt.ly/0wdolpRu) 😄
 
 <!--
 **dimader/dimader** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
