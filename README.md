@@ -13,9 +13,11 @@
 
 ⚡ Hier findet ihr den Code aus meinen Kursen.
 
-👉 Meine Kurse findet ihr aktuell auf [Udemy](https://www.udemy.com/user/dimitri-derksen/) 😁
+Auf meiner [Seite](https://cutt.ly/0wdolpRu) 😁 findet ihr
 
-👉 Meine Community und meinen Newsletter findet ihr auf meiner [Homepage](https://cutt.ly/0wdolpRu) 😄
+- 👉 Kostenlose Kurse
+- 👉 eine Community, um persönlich mit mir Kontakt aufzunehmen, falls ihr Fragen rund um meine Kurse, Softwareentwicklung im Generellen oder Karriere habt
+- 👉 einen Newsletter um keine Updates mehr zu verpassen
 
 <!--
 **dimader/dimader** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
