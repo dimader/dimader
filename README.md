@@ -15,9 +15,9 @@
 
 Auf meiner [Seite](https://cutt.ly/0wdolpRu) 😁 findet ihr
 
-- 👉 Kostenlose Kurse
-- 👉 eine Community, um persönlich mit mir Kontakt aufzunehmen, falls ihr Fragen rund um meine Kurse, Softwareentwicklung im Generellen oder Karriere habt
-- 👉 einen Newsletter um keine Updates mehr zu verpassen
+- 👉 einen Link zu meinem Kurs
+- 👉 einen Link zu meinem YouTube Kanal
+- 👉 und einen Newsletter um keine Updates mehr zu verpassen
 
 <!--
 **dimader/dimader** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
